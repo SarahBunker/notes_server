@@ -1,4 +1,4 @@
-# fly.toml file generated for notes-server on 2022-11-18T16:12:19-07:00
+# fly.toml file generated for notes-server on 2022-11-21T14:49:42-07:00
 
 app = "notes-server"
 kill_signal = "SIGINT"
